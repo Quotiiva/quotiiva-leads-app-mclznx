@@ -1,3 +1,4 @@
+
 const tintColorLight = "#0a7ea4";
 const tintColorDark = "#fff";
 
@@ -20,6 +21,12 @@ export const appleRed = "#FF3B30";
 
 export const borderColor = "#A1A1AA80";
 export const appleGreen = "#34C759";
+
+// Quotiiva Brand Colors
+export const quotiivaOrange = "#FF5722"; // Primary orange from logo
+export const quotiivaBlueDark = "#1976D2"; // Dark blue
+export const quotiivaBlueLight = "#2196F3"; // Light blue
+
 export const Colors = {
   light: {
     text: "#11181C",
